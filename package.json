@@ -2,7 +2,7 @@
 	"author": "Nacho",
 	"description": "For learning purposes",
 	"name": "fcc-learn-npm-package-json",
-	"keywords": [ "learning", "npm", "certificate" ],
+	"keywords": [ "learning", "npm", "certificate","freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
